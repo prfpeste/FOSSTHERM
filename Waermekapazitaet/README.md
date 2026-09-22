@@ -76,7 +76,7 @@ Danach im Browser http://127.0.0.1:8050 öffnen, Wassermasse, Raumtemperatur und
 - OpenModelica 1.22 oder neuer (nur für den digitalen Zwilling)
 
 
-#### Entwicklung des Versuchs
+## Entwicklung des Versuchs
 
 - Marcel Yigitkurt
 - Moritz Schubach
