@@ -44,7 +44,7 @@ Die README im jeweiligen Versuchsordner beschreibt, welche Dateien im Einzelnen 
 
 #### Projektleitung und Betreuung
 
-- Prof. Dr. Peter Stein
+- Prof. Dr. Peter Stein (HTWG Konstanz - Maschinenbau)
 
 #### Entwicklung der Versuche
 
