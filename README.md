@@ -19,7 +19,6 @@ Die Versuche entstehen im Rahmen studentischer Projektarbeiten und richten sich 
 | [Wärmekapazität](Waermekapazitaet/) | Bestimmung der spezifischen Wärmekapazität von Aluminium, Kupfer und Stahl mittels Wasserkalorimetrie | verfügbar |
 | Wärmeleitfähigkeit | | in Arbeit |
 | Tripelpunkt | | in Arbeit |
-| Wärmetauscher | | in Arbeit |
 
 Weitere Versuche werden ergänzt, sobald sie fertiggestellt sind.
 
