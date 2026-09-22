@@ -48,8 +48,8 @@ Die README im jeweiligen Versuchsordner beschreibt, welche Dateien im Einzelnen 
 
 #### Entwicklung der Versuche
 
-- Marcel Yigitkurt (Waermekapazitaet)
-- Moritz Schubach (Waermekapazitaet)
+- Marcel Yigitkurt (Waermekapazitaet - HTWG Konstanz - Maschinenbau)
+- Moritz Schubach (Waermekapazitaet - HTWG Konstanz - Maschinenbau)
 
 ## Verwandte Projekte
 
