@@ -75,11 +75,6 @@ Danach im Browser http://127.0.0.1:8050 öffnen, Wassermasse, Raumtemperatur und
 - Arduino-IDE 2.x mit Boardpaket für den Arduino Nano
 - OpenModelica 1.22 oder neuer (nur für den digitalen Zwilling)
 
-## Mitwirkende
-
-#### Projektleitung und Betreuung
-
-- Prof. Dr. Peter Stein
 
 #### Entwicklung des Versuchs
 
