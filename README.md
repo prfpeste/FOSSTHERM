@@ -46,7 +46,10 @@ Die README im jeweiligen Versuchsordner beschreibt, welche Dateien im Einzelnen 
 
 - Prof. Dr. Peter Stein
 
-Die an den einzelnen Versuchen beteiligten Studierenden sind in der README des jeweiligen Versuchsordners genannt.
+#### Entwicklung der Versuche
+
+- Marcel Yigitkurt (Waermekapazitaet)
+- Moritz Schubach (Waermekapazitaet)
 
 ## Verwandte Projekte
 
