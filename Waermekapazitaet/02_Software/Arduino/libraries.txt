@@ -1,0 +1,7 @@
+# Benötigte Arduino-Bibliotheken für FOSSTHERM – Wärmekapazität
+# Bitte im Bibliotheksverwalter der Arduino-IDE (Werkzeuge -> Bibliotheken verwalten) installieren:
+
+1. LiquidCrystal I2C (von Frank de Brabander) - Für das LCD-Display
+2. OneWire (von Paul Stoffregen) - Basis-Protokoll für den Wassersensor
+3. DallasTemperature (von Miles Burton) - Für den DS18B20 Wassersensor
+4. MAX6675 library (von Adafruit) - Für das Typ-K Thermoelement
